@@ -18,7 +18,7 @@ The technology Dapp uses:
 * truffle ``` npm install -g truffle@5.0.5 ```
 * MetaMask extension installed here: https://metamask.io/
 
-
+### Getting Setup
 Open Terminal and git clone project and navigate to project name.
 1. ``` truffle compile ``` (compiles the smart contract to make sure everything works)
 2. Make sure Ganache is running 
